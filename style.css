@@ -96,3 +96,21 @@ footer {
   list-style-type: disc;
   padding-left: 1.5rem;
 }
+
+.lang-switch {
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.lang-switch a {
+  text-decoration: none;
+  padding: 5px 10px;
+  background-color: #007ACC;
+  color: white;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.lang-switch a:hover {
+  background-color: #005A99;
+}
