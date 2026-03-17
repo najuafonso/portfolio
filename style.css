@@ -75,17 +75,17 @@ h2 {
 }
 
 /* efeito hover para cards clicáveis */
-.project:hover {
+.projects:hover {
   transform: translateY(-3px);
   box-shadow: 0 6px 12px rgba(0,0,0,0.1);
 }
 
-.project a {
+.projects a {
   color: inherit;
   text-decoration: none;
 }
 
-.project a:hover {
+.projects a:hover {
   text-decoration: none;
 }
 
